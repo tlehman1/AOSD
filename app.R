@@ -1,6 +1,6 @@
 library(shiny)
 
-# UI m
+# UI
 ui <- fluidPage(
   titlePanel("Standortabfrage mit R Shiny"),
   sidebarLayout(
